@@ -14,13 +14,12 @@ jobs:
 
     steps:
       - name: 코드 불러오기
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Python 설치
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.11"
-
       - name: 티보 게시물 확인
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
