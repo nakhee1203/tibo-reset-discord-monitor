@@ -1,6 +1,12 @@
 {
   "username": "thsottiaux",
-  "last_seen_id": "2093573991965557198",
+  "last_seen_id": "2093762439645176020",
+  "classifier_version": "3.1",
+  "feed_failure_count": 0,
+  "feed_failure_alerted": false,
   "initialized_at": "2026-08-27T17:59:33.557413+00:00",
-  "updated_at": "2026-08-29T05:41:47.201636+00:00"
+  "updated_at": "2026-08-29T18:14:05.693422+00:00",
+  "retro_alerted_ids": [
+    "2093573991965557198"
+  ]
 }
