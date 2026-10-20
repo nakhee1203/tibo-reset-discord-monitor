@@ -2,10 +2,10 @@
   "username": "thsottiaux",
   "last_seen_id": "2112268918681485431",
   "classifier_version": "3.1",
-  "feed_failure_count": 0,
+  "feed_failure_count": 1,
   "feed_failure_alerted": false,
   "initialized_at": "2026-08-27T17:59:33.557413+00:00",
-  "updated_at": "2026-10-20T06:07:19.704751+00:00",
+  "updated_at": "2026-10-20T11:27:31.431517+00:00",
   "retro_alerted_ids": [
     "2093573991965557198"
   ]
